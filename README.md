@@ -2,7 +2,8 @@
 
 A visually enhanced fork of [claude-hud](https://github.com/jarrodwatts/claude-hud) — real-time statusline HUD for Claude Code with **vivid color-coded backgrounds**, **main/sub-agent tracking**, and **Chinese task summaries**.
 
-![Claude HUD Vivid in action](preview.png)
+<img width="1480" height="264" alt="50aa4debabcee8d646dd582cc326ccf3" src="https://github.com/user-attachments/assets/3c881bb2-8884-4a93-8798-f66c7b539f0b" />
+
 
 ## What's Different from the Original
 
